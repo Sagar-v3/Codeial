@@ -1,4 +1,8 @@
 body {
-    margin: 0;
-    /*text-align: center; */
-}
+  margin: 0;
+  /*text-align: center; */ }
+  body #layout-main {
+    height: 80%; }
+    body #layout-main h1 {
+      font-family: sans-serif;
+      font-weight: 700; }

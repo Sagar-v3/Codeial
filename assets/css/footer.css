@@ -1,0 +1,15 @@
+footer {
+  background-color: grey;
+  display: flex;
+  justify-content: flex-start;
+  color: white; }
+  footer span {
+    padding-top: 15px; }
+  footer ul li {
+    list-style-type: none; }
+    footer ul li a {
+      text-decoration: none;
+      color: white;
+      transition: all 1s ease-in-out 0.1s; }
+    footer ul li a:hover {
+      border-bottom: 1px solid white; }

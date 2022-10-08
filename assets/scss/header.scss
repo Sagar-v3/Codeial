@@ -1,0 +1,31 @@
+header {
+    padding: 0px 10px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    background-color: rgb(83, 83, 255);
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: sans-serif;
+
+    ul {
+        font-size: 1rem;
+        
+
+        li{
+            list-style-type: none;
+            display: inline-block;
+            padding: 0px 3px;
+
+            a {
+                color: white;
+                text-decoration: none;
+                transition: all 3s ease-in-out 0.1s;
+                
+            }
+            a:hover {
+                border-bottom: 1px solid white;
+            }
+        }
+    }
+}
