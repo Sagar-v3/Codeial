@@ -7,6 +7,10 @@ header {
   justify-content: space-between;
   color: white;
   font-family: sans-serif; }
+  header a {
+    color: white;
+    text-decoration: none;
+    padding-top: 10px; }
   header ul {
     font-size: 1rem; }
     header ul li {
